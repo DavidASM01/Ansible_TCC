@@ -1,0 +1,3 @@
+--- # Arquivo de variaveis de grupo do ansible.
+dns_webserver: www.cariocatcc.com # Variável informada pela integração com terraform
+IP_DB: 10.0.1.80 # Variável informada pela integração com terraform
